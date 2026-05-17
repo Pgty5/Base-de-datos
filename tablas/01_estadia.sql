@@ -6,4 +6,7 @@ CREATE TABLE estadia (
     hr_salida TIME,
     id_empleado INT,
     id_reserva INT
+
+
+    qweqweqweqweqwe
 );
